@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: [here](https://ils01.github.io/frontendmentor-io/projects/newbie/Product%20preview%20card%20component/index.html)
+- Live Site URL: [here](https://ils01.github.io/Product-preview-card-component/)
 
 ## My process
 
